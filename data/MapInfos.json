@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":6,"parentId":0,"scrollX":550.8,"scrollY":375},
+{"id":2,"expanded":false,"name":"Sala Deb","order":2,"parentId":0,"scrollX":550.8,"scrollY":375},
+{"id":3,"expanded":false,"name":"Corredor Deb2","order":7,"parentId":0,"scrollX":550.8,"scrollY":375},
+{"id":4,"expanded":false,"name":"Corredor Deb3","order":8,"parentId":0,"scrollX":550.8,"scrollY":375},
+null,
+null,
+{"id":7,"expanded":true,"name":"Quarto Deb","order":1,"parentId":0,"scrollX":550.8,"scrollY":375},
+{"id":8,"expanded":false,"name":"Corredor Deb","order":3,"parentId":0,"scrollX":550.8,"scrollY":375},
+{"id":9,"expanded":false,"name":"Banheiro Deb","order":4,"parentId":0,"scrollX":550.8,"scrollY":375},
+null,
+{"id":11,"expanded":false,"name":"Cozinha Deb","order":5,"parentId":0,"scrollX":550.8,"scrollY":375}
+]
